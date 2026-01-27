@@ -15,12 +15,6 @@ This project focuses on:
 
 ---
 
-## 🔗 GitHub Repository
-
-👉 https://github.com/ldcasilang/sui_portfolio_level1.git
-
----
-
 ## 🚀 How to Run the Project (Full Guide)
 
 This project is intended to be run using **WSL (Windows Subsystem for Linux)**.
